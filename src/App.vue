@@ -9,6 +9,14 @@
       v-model="text"
     ></textarea>
     <div class="mt-6">
+      <div class="flex justify-center">
+        <button
+         class="mt-4 mb-6 bg-cyan-700 hover:bg-cyan-900 text-white text-center font-bold py-2 px-4 rounded"
+         @click="resetText"
+         >
+          文字数リセット
+        </button>
+      </div>
       <table class="table-auto border-collapse border border-gray-500">
         <tbody>
           <tr>
@@ -49,6 +57,11 @@ export default {
     return {
       text: "",
     };
+  },
+  methods: {
+    resetText(){
+      this.text = "";
+    },
   },
   computed: {
     countCharactersIncludingSpaces() {
