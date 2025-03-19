@@ -6,6 +6,22 @@
     <div class="container mx-auto px-4">
       <!-- ツールカードのグリッド -->
       <div class="grid gap-6 md:grid-cols-2">
+        <!-- Minifyツール -->
+        <div class="bg-gray-700 p-6 rounded-lg shadow-lg flex flex-col">
+          <div class="flex items-center mb-4">
+            <span class="text-4xl mr-3">✒</span>
+            <h2 class="text-2xl font-semibold">Minify/Cleanツール</h2>
+          </div>
+          <p class="mb-4">
+            HTML/CSS/JSの簡易的な圧縮・復元を行うことができるツールです
+          </p>
+          <router-link
+            to="/MinifyTool"
+            class="mt-auto inline-block bg-cyan-700 hover:bg-cyan-900 text-white text-center font-bold py-2 px-4 rounded"
+          >
+            Minify/Cleanツールを試す
+          </router-link>
+        </div>
         <!-- 文字数カウンターカード -->
         <div class="bg-gray-700 p-6 rounded-lg shadow-lg flex flex-col">
           <div class="flex items-center mb-4">
@@ -31,13 +47,12 @@
           <p class="mb-4">
             Markdown形式のテキストをレンダリングして表示するツールです。書いた内容をリアルタイムで確認できます。
           </p>
-          <a
-            href="https://bellsanct.github.io/markdown-editor/"
-            target="_blank"
+          <router-link
+            to="https://bellsanct.github.io/markdown-editor/"
             class="mt-auto inline-block bg-cyan-700 hover:bg-cyan-900 text-white text-center font-bold py-2 px-4 rounded"
           >
             Markdownビュワーを見る
-          </a>
+          </router-link>
         </div>
       </div>
     </div>

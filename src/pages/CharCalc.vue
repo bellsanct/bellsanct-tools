@@ -1,5 +1,7 @@
 <template>
-  <h1 class="text-4xl bg-gray-800 text-white text-center font-bold py-6">文字数カウンター</h1>
+  <h1 class="text-4xl bg-gray-800 text-white text-center font-bold py-6">
+    文字数カウンター
+  </h1>
   <div
     class="min-h-screen bg-gray-800 pt-10 text-white flex flex-col items-center justify-top"
   >
@@ -11,9 +13,9 @@
     <div class="mt-6">
       <div class="flex justify-center">
         <button
-         class="mt-4 mb-6 bg-cyan-700 hover:bg-cyan-900 text-white text-center font-bold py-2 px-4 rounded"
-         @click="resetText"
-         >
+          class="mt-4 mb-6 bg-cyan-700 hover:bg-cyan-900 text-white text-center font-bold py-2 px-4 rounded"
+          @click="resetText"
+        >
           文字数リセット
         </button>
       </div>
@@ -59,7 +61,7 @@ export default {
     };
   },
   methods: {
-    resetText(){
+    resetText() {
       this.text = "";
     },
   },
