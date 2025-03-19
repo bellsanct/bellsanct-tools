@@ -51,7 +51,7 @@
             to="https://bellsanct.github.io/markdown-editor/"
             class="mt-auto inline-block bg-cyan-700 hover:bg-cyan-900 text-white text-center font-bold py-2 px-4 rounded"
           >
-            Markdownビュワーを見る
+            Markdownビュワーを試す
           </router-link>
         </div>
       </div>
