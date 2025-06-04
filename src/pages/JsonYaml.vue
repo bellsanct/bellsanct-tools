@@ -8,7 +8,7 @@
         <label class="block mb-2">JSON</label>
         <textarea
           v-model="jsonText"
-          class="textarea textarea-bordered w-full h-48 bg-gray-700 text-white p-2"
+          class="textarea textarea-bordered w-full h-48 bg-gray-700 text-white p-2 indent-guide"
         ></textarea>
         <div class="flex justify-between mt-2">
           <button
@@ -29,7 +29,7 @@
         <label class="block mb-2">YAML</label>
         <textarea
           v-model="yamlText"
-          class="textarea textarea-bordered w-full h-48 bg-gray-700 text-white p-2"
+          class="textarea textarea-bordered w-full h-48 bg-gray-700 text-white p-2 indent-guide"
         ></textarea>
         <div class="flex justify-between mt-2">
           <button
