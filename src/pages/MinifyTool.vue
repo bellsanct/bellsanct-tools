@@ -37,7 +37,7 @@
     </div>
 
     <textarea
-      class="textarea textarea-bordered w-3/4 h-48 bg-gray-700 text-white p-4"
+      class="textarea textarea-bordered w-3/4 h-48 bg-gray-700 text-white p-4 indent-guide"
       placeholder="ここにコードを入力してください"
       v-model="inputCode"
     ></textarea>
