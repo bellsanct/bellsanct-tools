@@ -54,6 +54,22 @@
             Markdownビュワーを試す
           </a>
         </div>
+        <!-- JSON/YAML 変換カード -->
+        <div class="bg-gray-700 p-6 rounded-lg shadow-lg flex flex-col">
+          <div class="flex items-center mb-4">
+            <span class="text-4xl mr-3">🔁</span>
+            <h2 class="text-2xl font-semibold">JSON⇔YAML変換</h2>
+          </div>
+          <p class="mb-4">
+            JSON形式とYAML形式を相互に変換するシンプルなツールです。
+          </p>
+          <router-link
+            to="/JsonYaml"
+            class="mt-auto inline-block bg-cyan-700 hover:bg-cyan-900 text-white text-center font-bold py-2 px-4 rounded"
+          >
+            JSON⇔YAML変換を試す
+          </router-link>
+        </div>
       </div>
     </div>
   </div>
