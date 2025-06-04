@@ -51,35 +51,26 @@
 </template>
 
 <script>
+import * as yaml from "js-yaml";
 export default {
   data() {
     return {
       jsonText: "",
       yamlText: "",
-      yamlLib: null,
     };
   },
   methods: {
-    async ensureLib() {
-      if (!this.yamlLib) {
-        this.yamlLib = await import(
-          "https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/+esm"
-        );
-      }
-    },
     async jsonToYaml() {
-      await this.ensureLib();
       try {
         const obj = JSON.parse(this.jsonText || "{}");
-        this.yamlText = this.yamlLib.dump(obj);
+        this.yamlText = yaml.dump(obj);
       } catch (e) {
         alert("JSONの解析に失敗しました");
       }
     },
     async yamlToJson() {
-      await this.ensureLib();
       try {
-        const obj = this.yamlLib.load(this.yamlText || "");
+        const obj = yaml.load(this.yamlText || "");
         this.jsonText = JSON.stringify(obj, null, 2);
       } catch (e) {
         alert("YAMLの解析に失敗しました");
