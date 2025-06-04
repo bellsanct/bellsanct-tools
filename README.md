@@ -7,6 +7,7 @@
 - **✒ Minify/Clean ツール**：HTML/CSS/JS を簡易的に圧縮・復元します。
 - **🔢 文字数カウンター**：入力したテキストの文字数、行数、段落数をカウントします。
 - **📄 Markdown ビュワー ([Demo](https://bellsanct.github.io/markdown-editor/))**：Markdown テキストをその場でレンダリングして確認できます。
+- **🔁 JSON⇔YAML 変換**：JSON と YAML を相互に変換するツールです。
 
 ## セットアップ
 ```bash
