@@ -1,8 +1,6 @@
 <template>
   <div class="min-h-screen bg-gray-900 text-white flex flex-col items-center">
-    <h1 class="text-3xl md:text-4xl font-bold py-4">
-      ブルアカ 贈り物クイズ（Normal）
-    </h1>
+    <h1 class="text-3xl md:text-4xl font-bold py-4">贈り物クイズ（Normal）</h1>
 
     <!-- Top Bar -->
     <div class="w-full max-w-5xl px-4 flex items-center justify-between">
