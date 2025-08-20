@@ -13,7 +13,6 @@
       <div class="text-lg">
         スコア：<span class="font-bold text-2xl tabular-nums">{{ score }}</span>
       </div>
-      <div class="text-sm opacity-70">SEED: {{ seed }}</div>
     </div>
 
     <!-- Loading -->
