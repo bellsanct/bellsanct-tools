@@ -28,6 +28,11 @@ const routes = [
     name: "JsonYaml",
     component: JsonYaml,
   },
+  {
+    path: "/BAGiftQuiz",
+    name: "BAGiftQuiz",
+    component: BAGiftQuiz,
+  },
 ];
 
 const router = createRouter({
