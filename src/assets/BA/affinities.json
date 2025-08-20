@@ -1,0 +1,1474 @@
+{
+  "airi": {
+    "8": "large",
+    "12": "medium",
+    "13": "medium",
+    "26": "medium"
+  },
+  "airi_b": {
+    "8": "large",
+    "12": "medium",
+    "13": "medium",
+    "26": "large",
+    "31": "medium"
+  },
+  "aoba": {
+    "21": "medium",
+    "24": "medium",
+    "27": "large",
+    "33": "medium"
+  },
+  "akane": {
+    "24": "large"
+  },
+  "akane_b": {
+    "24": "large"
+  },
+  "akari": {
+    "26": "medium",
+    "27": "large"
+  },
+  "akari_s": {
+    "26": "medium",
+    "27": "large"
+  },
+  "ako": {
+    "17": "medium",
+    "19": "medium",
+    "29": "medium",
+    "30": "medium",
+    "32": "medium",
+    "33": "large"
+  },
+  "ako_d": {
+    "15": "large",
+    "17": "medium",
+    "19": "medium",
+    "29": "medium",
+    "30": "medium",
+    "32": "medium",
+    "33": "large"
+  },
+  "azusa": {
+    "0": "medium",
+    "1": "medium",
+    "20": "large",
+    "31": "medium"
+  },
+  "azusa_s": {
+    "0": "medium",
+    "1": "medium",
+    "20": "large",
+    "34": "large"
+  },
+  "asuna": {
+    "5": "large",
+    "6": "medium",
+    "7": "medium"
+  },
+  "asuna_b": {
+    "8": "medium",
+    "12": "medium",
+    "13": "medium",
+    "26": "large"
+  },
+  "asuna_c": {
+    "5": "large",
+    "6": "large",
+    "7": "medium"
+  },
+  "atsuko": {
+    "32": "large",
+    "33": "medium"
+  },
+  "atsuko_s": {
+    "3": "medium",
+    "4": "medium",
+    "9": "medium",
+    "15": "medium",
+    "18": "medium",
+    "23": "large",
+    "28": "medium",
+    "29": "medium",
+    "32": "large",
+    "33": "medium",
+    "34": "large"
+  },
+  "ayane": {
+    "3": "medium",
+    "4": "medium",
+    "9": "large",
+    "15": "medium",
+    "23": "medium",
+    "32": "medium"
+  },
+  "ayane_s": {
+    "3": "medium",
+    "4": "medium",
+    "9": "large",
+    "15": "medium",
+    "23": "medium",
+    "32": "medium",
+    "34": "large"
+  },
+  "ar1s": {
+    "4": "large",
+    "11": "medium",
+    "16": "medium"
+  },
+  "ar1s_m": {
+    "4": "large",
+    "10": "medium",
+    "11": "medium",
+    "16": "medium",
+    "18": "medium",
+    "20": "medium",
+    "22": "medium",
+    "25": "large",
+    "31": "medium"
+  },
+  "aru": {
+    "17": "large",
+    "19": "medium",
+    "29": "medium",
+    "30": "medium"
+  },
+  "aru_s": {
+    "17": "large",
+    "19": "medium",
+    "29": "medium",
+    "30": "medium"
+  },
+  "aru_d": {
+    "17": "large",
+    "19": "large",
+    "29": "large",
+    "30": "medium"
+  },
+  "iori": {
+    "7": "medium",
+    "8": "medium",
+    "12": "large",
+    "13": "medium",
+    "26": "medium"
+  },
+  "iori_s": {
+    "7": "medium",
+    "8": "medium",
+    "12": "large",
+    "13": "medium",
+    "26": "medium",
+    "34": "large"
+  },
+  "izuna": {
+    "31": "large"
+  },
+  "izuna_s": {
+    "31": "large",
+    "34": "large"
+  },
+  "izumi": {
+    "8": "medium",
+    "12": "medium",
+    "13": "large",
+    "26": "medium"
+  },
+  "izumi_s": {
+    "8": "medium",
+    "12": "medium",
+    "13": "large",
+    "26": "medium",
+    "34": "large"
+  },
+  "izumi_s2": {
+    "8": "medium",
+    "12": "medium",
+    "13": "large",
+    "26": "medium"
+  },
+  "ichika": {
+    "2": "medium",
+    "5": "large",
+    "6": "medium",
+    "7": "medium",
+    "11": "medium",
+    "31": "medium"
+  },
+  "ichika_s": {
+    "2": "medium",
+    "5": "large",
+    "6": "medium",
+    "7": "medium",
+    "11": "medium",
+    "34": "large"
+  },
+  "ibuki": {
+    "8": "large",
+    "10": "medium",
+    "12": "medium",
+    "13": "medium",
+    "18": "medium",
+    "20": "large",
+    "22": "large",
+    "25": "medium",
+    "26": "medium"
+  },
+  "iroha": {
+    "3": "medium",
+    "4": "large",
+    "9": "medium",
+    "11": "medium",
+    "15": "medium",
+    "16": "medium",
+    "23": "medium",
+    "32": "medium"
+  },
+  "ui": {
+    "3": "medium",
+    "4": "medium",
+    "9": "large",
+    "15": "medium",
+    "23": "large",
+    "32": "medium"
+  },
+  "ui_s": {
+    "3": "medium",
+    "4": "medium",
+    "9": "large",
+    "15": "medium",
+    "17": "large",
+    "23": "large",
+    "32": "medium"
+  },
+  "utaha": {
+    "10": "large"
+  },
+  "utaha_f": {
+    "2": "medium",
+    "10": "large",
+    "11": "medium"
+  },
+  "umika": {
+    "10": "medium",
+    "18": "large",
+    "20": "medium",
+    "22": "medium",
+    "25": "medium",
+    "28": "medium",
+    "29": "medium"
+  },
+  "eimi": {
+    "2": "medium",
+    "17": "medium",
+    "19": "medium",
+    "29": "medium",
+    "30": "large"
+  },
+  "eimi_s": {
+    "2": "medium",
+    "17": "medium",
+    "19": "medium",
+    "29": "medium",
+    "30": "large",
+    "34": "large"
+  },
+  "kaede": {
+    "4": "medium",
+    "10": "medium",
+    "11": "medium",
+    "16": "medium",
+    "18": "large",
+    "20": "medium",
+    "22": "medium",
+    "25": "medium",
+    "28": "medium"
+  },
+  "kazusa": {
+    "5": "medium",
+    "8": "large",
+    "12": "medium",
+    "13": "medium",
+    "26": "medium"
+  },
+  "kazusa_b": {
+    "2": "medium",
+    "8": "large",
+    "12": "medium",
+    "13": "medium",
+    "26": "large",
+    "30": "medium"
+  },
+  "kasumi": {
+    "10": "medium",
+    "17": "large",
+    "19": "medium"
+  },
+  "kaho": {
+    "3": "medium",
+    "4": "medium",
+    "9": "medium",
+    "15": "medium",
+    "23": "large",
+    "32": "medium"
+  },
+  "kayoko": {
+    "2": "large",
+    "11": "medium",
+    "30": "medium"
+  },
+  "kayoko_s": {
+    "2": "large",
+    "11": "medium",
+    "30": "medium",
+    "31": "large"
+  },
+  "kayoko_d": {
+    "2": "large",
+    "11": "medium",
+    "30": "large"
+  },
+  "karin": {
+    "25": "large"
+  },
+  "karin_c": {
+    "3": "medium",
+    "24": "large",
+    "31": "medium"
+  },
+  "karin_b": {
+    "20": "large"
+  },
+  "kanna": {
+    "32": "medium",
+    "33": "large"
+  },
+  "kanna_s": {
+    "3": "medium",
+    "4": "medium",
+    "9": "medium",
+    "15": "large",
+    "23": "medium",
+    "32": "medium",
+    "34": "large"
+  },
+  "kikyou": {
+    "3": "medium",
+    "4": "medium",
+    "9": "large",
+    "15": "large",
+    "23": "large",
+    "33": "medium"
+  },
+  "kikyou_s": {
+    "3": "medium",
+    "4": "medium",
+    "9": "large",
+    "15": "medium",
+    "23": "medium",
+    "32": "large",
+    "33": "medium",
+    "34": "large"
+  },
+  "kisaki": {
+    "3": "medium",
+    "4": "medium",
+    "9": "medium",
+    "15": "medium",
+    "18": "medium",
+    "23": "medium",
+    "24": "large",
+    "28": "medium",
+    "29": "medium"
+  },
+  "kirara": {
+    "5": "large",
+    "6": "large",
+    "7": "medium",
+    "31": "medium"
+  },
+  "kirino": {
+    "8": "medium",
+    "31": "large"
+  },
+  "kirino_s": {
+    "1": "medium",
+    "8": "medium",
+    "16": "large",
+    "34": "large"
+  },
+  "kokona": {
+    "8": "large",
+    "12": "medium",
+    "13": "medium",
+    "26": "medium"
+  },
+  "kotama": {
+    "10": "medium",
+    "18": "medium",
+    "20": "large",
+    "22": "medium",
+    "25": "medium"
+  },
+  "kotama_c": {
+    "10": "medium",
+    "18": "medium",
+    "20": "large",
+    "22": "medium",
+    "25": "medium"
+  },
+  "kotori": {
+    "3": "medium",
+    "4": "medium",
+    "9": "medium",
+    "15": "medium",
+    "23": "medium",
+    "32": "large",
+    "33": "medium"
+  },
+  "kotori_f": {
+    "1": "medium",
+    "16": "medium",
+    "25": "medium",
+    "32": "large",
+    "33": "medium"
+  },
+  "koharu": {
+    "3": "large",
+    "5": "large",
+    "6": "medium",
+    "7": "medium",
+    "15": "medium"
+  },
+  "koharu_s": {
+    "3": "large",
+    "9": "medium",
+    "34": "large"
+  },
+  "koyuki": {
+    "10": "medium",
+    "18": "medium",
+    "19": "large",
+    "20": "medium",
+    "22": "medium",
+    "25": "large"
+  },
+  "saori": {
+    "5": "large",
+    "6": "large",
+    "7": "medium"
+  },
+  "saori_s": {
+    "5": "large",
+    "6": "large",
+    "7": "large",
+    "12": "medium"
+  },
+  "saori_d": {
+    "5": "large",
+    "6": "medium",
+    "7": "medium",
+    "31": "medium"
+  },
+  "saki": {
+    "7": "large",
+    "12": "medium",
+    "17": "medium",
+    "19": "medium",
+    "29": "medium",
+    "30": "medium",
+    "32": "medium",
+    "33": "medium"
+  },
+  "saki_s": {
+    "7": "large",
+    "12": "medium",
+    "17": "medium",
+    "19": "medium",
+    "29": "medium",
+    "30": "medium",
+    "32": "medium",
+    "33": "medium",
+    "34": "large"
+  },
+  "sakurako": {
+    "8": "medium",
+    "12": "medium",
+    "13": "medium",
+    "26": "large"
+  },
+  "sakurako_i": {
+    "3": "medium",
+    "4": "medium",
+    "9": "medium",
+    "15": "medium",
+    "18": "medium",
+    "19": "medium",
+    "23": "medium",
+    "28": "medium",
+    "33": "large"
+  },
+  "satsuki": {
+    "3": "medium",
+    "4": "medium",
+    "9": "medium",
+    "15": "medium",
+    "19": "medium",
+    "23": "medium",
+    "32": "large",
+    "33": "medium"
+  },
+  "saya": {
+    "32": "medium",
+    "33": "large"
+  },
+  "saya_p": {
+    "8": "medium",
+    "18": "large",
+    "28": "medium",
+    "29": "medium"
+  },
+  "shigure": {
+    "32": "medium",
+    "33": "large"
+  },
+  "shigure_h": {
+    "32": "medium",
+    "33": "large"
+  },
+  "shizuko": {
+    "33": "large"
+  },
+  "shizuko_s": {
+    "33": "large",
+    "34": "large"
+  },
+  "shimiko": {
+    "3": "medium",
+    "4": "medium",
+    "9": "medium",
+    "15": "large",
+    "23": "medium",
+    "32": "medium"
+  },
+  "juri": {
+    "22": "large"
+  },
+  "juri_a": {
+    "5": "medium",
+    "24": "medium",
+    "31": "large"
+  },
+  "shun": {
+    "5": "medium",
+    "6": "large",
+    "7": "medium"
+  },
+  "shun_c": {
+    "8": "large",
+    "12": "medium",
+    "13": "medium",
+    "20": "medium",
+    "26": "medium"
+  },
+  "junko": {
+    "8": "large",
+    "12": "medium",
+    "13": "medium",
+    "26": "medium"
+  },
+  "junko_s": {
+    "8": "large",
+    "12": "medium",
+    "13": "medium",
+    "26": "medium"
+  },
+  "shiroko": {
+    "1": "large",
+    "16": "medium"
+  },
+  "shiroko_r": {
+    "1": "medium",
+    "16": "medium",
+    "17": "large"
+  },
+  "shiroko_s": {
+    "1": "large",
+    "16": "medium",
+    "34": "large"
+  },
+  "shiroko_t": {
+    "1": "large",
+    "16": "medium"
+  },
+  "sumire": {
+    "1": "medium",
+    "16": "large"
+  },
+  "sumire_a": {
+    "1": "medium",
+    "16": "large",
+    "33": "medium"
+  },
+  "seia": {
+    "3": "medium",
+    "4": "medium",
+    "9": "medium",
+    "15": "medium",
+    "18": "medium",
+    "23": "large",
+    "28": "medium",
+    "29": "medium",
+    "32": "medium"
+  },
+  "seia_s": {
+    "3": "medium",
+    "4": "medium",
+    "9": "medium",
+    "11": "large",
+    "15": "medium",
+    "18": "medium",
+    "23": "medium",
+    "28": "medium",
+    "29": "medium",
+    "34": "large"
+  },
+  "sena": {
+    "0": "large",
+    "14": "medium",
+    "32": "medium",
+    "33": "medium"
+  },
+  "sena_p": {
+    "18": "medium",
+    "28": "medium",
+    "29": "medium",
+    "32": "medium",
+    "33": "large"
+  },
+  "serika": {
+    "17": "medium",
+    "19": "medium",
+    "29": "large",
+    "30": "medium"
+  },
+  "serika_s": {
+    "17": "medium",
+    "19": "medium",
+    "29": "large",
+    "30": "medium"
+  },
+  "serika_d": {
+    "17": "medium",
+    "19": "medium",
+    "29": "large",
+    "30": "medium",
+    "31": "medium",
+    "34": "large"
+  },
+  "serina": {
+    "14": "large"
+  },
+  "serina_c": {
+    "0": "medium",
+    "14": "large",
+    "33": "medium"
+  },
+  "chiaki": {
+    "3": "medium",
+    "4": "medium",
+    "9": "medium",
+    "15": "medium",
+    "19": "medium",
+    "23": "large",
+    "32": "medium"
+  },
+  "cherino": {
+    "17": "medium",
+    "18": "medium",
+    "19": "medium",
+    "26": "medium",
+    "28": "medium",
+    "29": "large",
+    "30": "medium"
+  },
+  "cherino_h": {
+    "17": "large",
+    "18": "medium",
+    "28": "medium",
+    "29": "medium"
+  },
+  "chise": {
+    "3": "medium",
+    "4": "medium",
+    "9": "medium",
+    "15": "medium",
+    "23": "large",
+    "32": "medium"
+  },
+  "chise_s": {
+    "3": "medium",
+    "4": "medium",
+    "9": "medium",
+    "15": "medium",
+    "23": "large",
+    "32": "medium",
+    "34": "large"
+  },
+  "chinatsu": {
+    "3": "medium",
+    "4": "medium",
+    "9": "large",
+    "15": "medium",
+    "23": "medium",
+    "32": "medium"
+  },
+  "chinatsu_h": {
+    "3": "medium",
+    "4": "medium",
+    "9": "large",
+    "15": "medium",
+    "17": "medium",
+    "19": "medium",
+    "23": "medium",
+    "29": "medium",
+    "30": "large",
+    "32": "medium"
+  },
+  "chihilo": {
+    "2": "large",
+    "11": "medium",
+    "30": "medium"
+  },
+  "tsukuyo": {
+    "18": "medium",
+    "28": "large",
+    "29": "medium"
+  },
+  "tsubaki": {
+    "0": "large",
+    "14": "medium"
+  },
+  "tsubaki_g": {
+    "0": "large",
+    "3": "medium",
+    "4": "medium",
+    "9": "medium",
+    "14": "medium",
+    "15": "medium",
+    "23": "medium",
+    "32": "medium"
+  },
+  "tsurugi": {
+    "3": "large"
+  },
+  "tsurugi_s": {
+    "3": "large",
+    "34": "large"
+  },
+  "toki": {
+    "1": "large",
+    "16": "medium",
+    "32": "medium",
+    "33": "medium"
+  },
+  "toki_b": {
+    "1": "large",
+    "16": "medium",
+    "32": "medium",
+    "33": "medium"
+  },
+  "tomoe": {
+    "9": "medium",
+    "23": "large",
+    "31": "medium"
+  },
+  "tomoe_c": {
+    "3": "medium",
+    "4": "medium",
+    "5": "large",
+    "9": "medium",
+    "15": "medium",
+    "23": "medium",
+    "31": "medium",
+    "32": "medium"
+  },
+  "nagisa": {
+    "8": "medium",
+    "17": "medium",
+    "19": "medium",
+    "29": "medium",
+    "30": "large"
+  },
+  "nagisa_s": {
+    "8": "large",
+    "17": "medium",
+    "19": "medium",
+    "29": "medium",
+    "30": "medium",
+    "34": "large"
+  },
+  "nagusa": {
+    "6": "medium",
+    "8": "medium",
+    "12": "medium",
+    "13": "medium",
+    "23": "large",
+    "26": "medium",
+    "31": "medium"
+  },
+  "natsu": {
+    "8": "medium",
+    "12": "medium",
+    "13": "medium",
+    "17": "large",
+    "26": "medium"
+  },
+  "natsu_b": {
+    "8": "large",
+    "12": "medium",
+    "13": "medium",
+    "17": "medium",
+    "26": "large"
+  },
+  "niya": {
+    "3": "large",
+    "10": "medium",
+    "17": "medium",
+    "18": "large",
+    "19": "medium",
+    "20": "medium",
+    "22": "medium",
+    "25": "medium",
+    "28": "medium",
+    "29": "large",
+    "30": "medium"
+  },
+  "neru": {
+    "10": "medium",
+    "18": "large",
+    "20": "medium",
+    "22": "medium",
+    "25": "medium"
+  },
+  "neru_s": {
+    "4": "medium",
+    "10": "medium",
+    "11": "medium",
+    "16": "medium",
+    "18": "large",
+    "20": "medium",
+    "22": "medium",
+    "25": "medium",
+    "28": "medium"
+  },
+  "neru_g": {
+    "4": "medium",
+    "11": "large",
+    "16": "medium"
+  },
+  "noa": {
+    "3": "medium",
+    "4": "medium",
+    "9": "medium",
+    "15": "medium",
+    "23": "large",
+    "32": "medium"
+  },
+  "noa_p": {
+    "0": "medium",
+    "3": "medium",
+    "4": "medium",
+    "5": "medium",
+    "6": "medium",
+    "7": "medium",
+    "9": "medium",
+    "14": "medium",
+    "23": "large"
+  },
+  "nozomi": {
+    "10": "medium",
+    "17": "medium",
+    "18": "large",
+    "19": "medium",
+    "20": "medium",
+    "22": "medium",
+    "25": "medium",
+    "29": "medium",
+    "30": "medium"
+  },
+  "nodoka": {
+    "8": "medium",
+    "10": "large",
+    "12": "medium",
+    "13": "medium",
+    "26": "medium"
+  },
+  "nodoka_h": {
+    "8": "medium",
+    "10": "medium",
+    "12": "medium",
+    "13": "medium",
+    "21": "medium",
+    "26": "medium",
+    "27": "large"
+  },
+  "nonomi": {
+    "5": "large",
+    "6": "medium",
+    "7": "medium"
+  },
+  "nonomi_s": {
+    "5": "large",
+    "6": "medium",
+    "7": "medium",
+    "34": "large"
+  },
+  "hasumi": {
+    "8": "medium",
+    "12": "medium",
+    "13": "medium",
+    "26": "large",
+    "27": "medium"
+  },
+  "hasumi_g": {
+    "8": "medium",
+    "12": "medium",
+    "13": "medium",
+    "26": "large",
+    "27": "medium"
+  },
+  "hasumi_s": {
+    "8": "medium",
+    "12": "medium",
+    "13": "medium",
+    "26": "large",
+    "27": "medium",
+    "34": "large"
+  },
+  "hanae": {
+    "5": "medium",
+    "6": "large",
+    "7": "medium"
+  },
+  "hanae_c": {
+    "1": "medium",
+    "16": "large",
+    "33": "medium"
+  },
+  "hanako": {
+    "3": "large",
+    "4": "medium",
+    "9": "medium",
+    "15": "medium",
+    "19": "large",
+    "23": "medium",
+    "32": "medium"
+  },
+  "hanako_s": {
+    "5": "medium",
+    "6": "large",
+    "7": "medium",
+    "31": "medium",
+    "34": "large"
+  },
+  "haruka": {
+    "18": "medium",
+    "28": "large",
+    "29": "medium"
+  },
+  "haruka_s": {
+    "18": "medium",
+    "28": "large",
+    "29": "medium"
+  },
+  "haruna": {
+    "31": "large"
+  },
+  "haruna_s": {
+    "8": "large",
+    "31": "large"
+  },
+  "haruna_g": {
+    "1": "medium",
+    "8": "large",
+    "12": "medium",
+    "13": "medium",
+    "16": "medium",
+    "26": "medium"
+  },
+  "hare": {
+    "4": "large",
+    "11": "medium",
+    "16": "medium"
+  },
+  "hare_c": {
+    "4": "large",
+    "11": "medium",
+    "16": "medium"
+  },
+  "hikari": {
+    "4": "medium",
+    "8": "large",
+    "11": "medium",
+    "12": "medium",
+    "13": "medium",
+    "16": "medium",
+    "26": "medium"
+  },
+  "hina": {
+    "19": "large"
+  },
+  "hina_s": {
+    "19": "large",
+    "34": "large"
+  },
+  "hina_d": {
+    "19": "large",
+    "21": "large",
+    "27": "medium"
+  },
+  "hinata": {
+    "28": "large",
+    "31": "medium"
+  },
+  "hinata_s": {
+    "24": "large",
+    "31": "medium",
+    "34": "large"
+  },
+  "hibiki": {
+    "2": "large",
+    "11": "medium"
+  },
+  "hibiki_o": {
+    "2": "large",
+    "11": "medium",
+    "24": "medium",
+    "30": "medium"
+  },
+  "hifumi": {
+    "0": "medium",
+    "1": "large"
+  },
+  "hifumi_s": {
+    "0": "medium",
+    "1": "large",
+    "34": "large"
+  },
+  "himari": {
+    "17": "medium",
+    "19": "large",
+    "29": "medium",
+    "30": "medium"
+  },
+  "hiyori": {
+    "24": "large"
+  },
+  "hiyori_s": {
+    "3": "large",
+    "8": "medium",
+    "12": "medium",
+    "13": "medium",
+    "26": "large",
+    "27": "medium",
+    "34": "large"
+  },
+  "fina": {
+    "21": "large"
+  },
+  "fina_g": {
+    "3": "medium",
+    "4": "medium",
+    "9": "medium",
+    "15": "medium",
+    "21": "large",
+    "23": "medium",
+    "27": "medium",
+    "32": "medium"
+  },
+  "fuka": {
+    "24": "large"
+  },
+  "fuka_s": {
+    "24": "large",
+    "33": "large"
+  },
+  "fubuki": {
+    "8": "large",
+    "12": "medium",
+    "13": "medium",
+    "26": "medium"
+  },
+  "fubuki_s": {
+    "4": "medium",
+    "8": "large",
+    "11": "medium",
+    "12": "medium",
+    "13": "large",
+    "16": "medium",
+    "26": "medium",
+    "34": "large"
+  },
+  "hoshino": {
+    "17": "large"
+  },
+  "hoshino_s": {
+    "17": "large",
+    "34": "large"
+  },
+  "hoshino_r": {
+    "7": "large",
+    "12": "large",
+    "17": "large",
+    "19": "medium",
+    "29": "medium",
+    "30": "medium"
+  },
+  "maki": {
+    "10": "medium",
+    "18": "medium",
+    "20": "medium",
+    "22": "large",
+    "25": "medium"
+  },
+  "maki_c": {
+    "2": "medium",
+    "4": "medium",
+    "11": "large",
+    "16": "medium",
+    "22": "large"
+  },
+  "makoto": {
+    "17": "large",
+    "18": "medium",
+    "19": "large",
+    "28": "medium",
+    "29": "large",
+    "30": "medium"
+  },
+  "mashiro": {
+    "7": "large",
+    "12": "medium"
+  },
+  "mashiro_s": {
+    "7": "medium",
+    "12": "large",
+    "34": "large"
+  },
+  "marie": {
+    "28": "medium",
+    "31": "large"
+  },
+  "marie_g": {
+    "28": "medium",
+    "31": "large"
+  },
+  "marie_i": {
+    "24": "large",
+    "31": "large"
+  },
+  "marina": {
+    "17": "medium",
+    "19": "medium",
+    "20": "large",
+    "29": "medium",
+    "30": "medium"
+  },
+  "marina_c": {
+    "10": "medium",
+    "17": "medium",
+    "18": "medium",
+    "19": "medium",
+    "20": "large",
+    "22": "medium",
+    "25": "medium",
+    "29": "medium",
+    "30": "medium"
+  },
+  "mika": {
+    "5": "medium",
+    "6": "large",
+    "7": "medium",
+    "8": "medium",
+    "12": "medium",
+    "13": "medium",
+    "26": "medium"
+  },
+  "mika_s": {
+    "5": "large",
+    "6": "medium",
+    "7": "medium",
+    "34": "large"
+  },
+  "misaki": {
+    "20": "large"
+  },
+  "michiru": {
+    "17": "large",
+    "19": "medium",
+    "29": "medium",
+    "30": "medium"
+  },
+  "midori": {
+    "14": "large"
+  },
+  "midori_m": {
+    "4": "medium",
+    "11": "medium",
+    "16": "medium",
+    "24": "large"
+  },
+  "mina": {
+    "17": "medium",
+    "18": "medium",
+    "19": "medium",
+    "28": "medium",
+    "29": "large",
+    "30": "large"
+  },
+  "mine": {
+    "5": "large",
+    "6": "medium",
+    "7": "medium"
+  },
+  "mine_i": {
+    "0": "large",
+    "1": "medium",
+    "5": "large",
+    "6": "medium",
+    "7": "medium",
+    "20": "large"
+  },
+  "minori": {
+    "3": "medium",
+    "4": "medium",
+    "9": "large",
+    "15": "medium",
+    "23": "medium",
+    "32": "large",
+    "33": "medium"
+  },
+  "mimori": {
+    "24": "large",
+    "31": "large"
+  },
+  "mimori_s": {
+    "3": "medium",
+    "4": "medium",
+    "5": "medium",
+    "6": "medium",
+    "7": "medium",
+    "9": "medium",
+    "15": "medium",
+    "23": "large",
+    "24": "medium",
+    "34": "large"
+  },
+  "miyako": {
+    "7": "medium",
+    "9": "large",
+    "12": "medium"
+  },
+  "miyako_s": {
+    "7": "medium",
+    "9": "large",
+    "12": "medium",
+    "34": "large"
+  },
+  "miyu": {
+    "7": "medium",
+    "12": "medium",
+    "31": "large"
+  },
+  "miyu_s": {
+    "7": "medium",
+    "12": "medium",
+    "31": "large",
+    "34": "large"
+  },
+  "mutsuki": {
+    "10": "medium",
+    "18": "large",
+    "20": "medium",
+    "22": "medium",
+    "25": "medium",
+    "28": "medium",
+    "29": "medium"
+  },
+  "mutsuki_s": {
+    "10": "medium",
+    "18": "large",
+    "20": "medium",
+    "22": "medium",
+    "25": "medium",
+    "28": "medium",
+    "29": "medium"
+  },
+  "meg": {
+    "10": "medium",
+    "18": "large",
+    "20": "medium",
+    "22": "medium",
+    "25": "medium",
+    "28": "medium",
+    "29": "medium"
+  },
+  "mer": {
+    "3": "medium",
+    "4": "medium",
+    "9": "medium",
+    "10": "medium",
+    "15": "medium",
+    "18": "medium",
+    "20": "medium",
+    "22": "large",
+    "23": "medium"
+  },
+  "moe": {
+    "2": "large",
+    "7": "medium",
+    "11": "medium",
+    "12": "medium"
+  },
+  "moe_s": {
+    "2": "medium",
+    "7": "medium",
+    "11": "medium",
+    "12": "medium",
+    "18": "medium",
+    "28": "medium",
+    "29": "medium",
+    "34": "large"
+  },
+  "momiji": {
+    "3": "large",
+    "4": "medium",
+    "5": "medium",
+    "9": "medium",
+    "15": "medium",
+    "23": "medium",
+    "32": "medium"
+  },
+  "momoi": {
+    "4": "medium",
+    "11": "large",
+    "16": "medium"
+  },
+  "momoi_m": {
+    "0": "medium",
+    "4": "medium",
+    "11": "large",
+    "14": "medium",
+    "16": "medium"
+  },
+  "yuuka": {
+    "25": "large"
+  },
+  "yuuka_g": {
+    "25": "large"
+  },
+  "yuuka_p": {
+    "0": "large",
+    "2": "medium",
+    "5": "medium",
+    "6": "medium",
+    "7": "medium",
+    "11": "medium",
+    "14": "medium"
+  },
+  "yukari": {
+    "8": "medium",
+    "12": "medium",
+    "13": "medium",
+    "26": "medium",
+    "31": "large"
+  },
+  "yukari_s": {
+    "8": "medium",
+    "12": "medium",
+    "13": "medium",
+    "26": "medium",
+    "31": "large",
+    "34": "large"
+  },
+  "yuzu": {
+    "2": "medium",
+    "4": "medium",
+    "11": "large",
+    "16": "medium"
+  },
+  "yuzu_m": {
+    "2": "medium",
+    "4": "medium",
+    "11": "large",
+    "16": "medium"
+  },
+  "yoshimi": {
+    "8": "large",
+    "12": "medium",
+    "13": "medium",
+    "26": "medium"
+  },
+  "yoshimi_b": {
+    "5": "medium",
+    "8": "large",
+    "12": "medium",
+    "13": "medium",
+    "26": "large"
+  },
+  "rio": {
+    "2": "medium",
+    "10": "large",
+    "11": "medium",
+    "18": "medium",
+    "28": "medium",
+    "29": "medium"
+  },
+  "rumi": {
+    "24": "large",
+    "31": "large"
+  },
+  "rei": {
+    "2": "medium",
+    "11": "medium",
+    "17": "medium"
+  },
+  "reisa": {
+    "2": "large",
+    "8": "medium",
+    "11": "medium",
+    "12": "medium",
+    "13": "medium",
+    "26": "medium",
+    "30": "medium"
+  },
+  "reijo": {
+    "1": "medium",
+    "16": "medium",
+    "17": "medium",
+    "33": "large"
+  },
+  "renge": {
+    "3": "large",
+    "21": "large",
+    "24": "large",
+    "27": "medium"
+  },
+  "renge_s": {
+    "3": "large",
+    "4": "medium",
+    "9": "medium",
+    "15": "medium",
+    "23": "medium",
+    "24": "medium",
+    "32": "medium",
+    "34": "large"
+  },
+  "wakamo": {
+    "20": "large"
+  },
+  "wakamo_s": {
+    "20": "large",
+    "34": "large"
+  }
+}
