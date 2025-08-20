@@ -196,7 +196,7 @@ export default {
     },
     tweetUrl() {
       const appUrl = "https://bellsanct-tools.vercel.app/BAGiftQuiz";
-      const text = `ブルアカ 贈り物クイズ（Normal）でスコア${this.score}点を獲得しました！\n回答数:${this.statTotal} \n`;
+      const text = `贈り物クイズ（Normal）でスコア${this.score}点を獲得しました！\n回答数:${this.statTotal} \n`;
       return `https://x.com/intent/tweet?text=${encodeURIComponent(
         text
       )}&url=${encodeURIComponent(appUrl)}`;
