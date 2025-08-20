@@ -6,6 +6,7 @@ import OverView from "@/pages/OverView.vue";
 import CharCalc from "@/pages/CharCalc.vue";
 import MinifyTool from "@/pages/MinifyTool.vue";
 import JsonYaml from "@/pages/JsonYaml.vue";
+import BAGiftQuiz from "@/pages/BAGiftQuiz.vue";
 
 const routes = [
   {
