@@ -1,3 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  --indent-guide-size: 2ch;
+}
+
+.indent-guide {
+  background-image: repeating-linear-gradient(
+    90deg,
+    transparent,
+    transparent calc(var(--indent-guide-size) - 1px),
+    rgba(255, 255, 255, 0.1) calc(var(--indent-guide-size) - 1px),
+    rgba(255, 255, 255, 0.1) var(--indent-guide-size)
+  );
+  background-attachment: local;
+}
