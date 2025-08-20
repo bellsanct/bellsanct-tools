@@ -110,7 +110,7 @@
     { "id": "chise_s", "name": "チセ(水着)", "iconFilename": "chise_s.png" },
     { "id": "chinatsu", "name": "チナツ", "iconFilename": "chinatsu.png" },
     { "id": "chinatsu_h", "name": "チナツ(温泉)", "iconFilename": "chinatsu_h.png" },
-    { "id": "chihilo", "name": "チヒロ", "iconFilename": "chihilo.png" },
+    { "id": "chihiro", "name": "チヒロ", "iconFilename": "chihiro.png" },
     { "id": "tsukuyo", "name": "ツクヨ", "iconFilename": "tsukuyo.png" },
     { "id": "tsubaki", "name": "ツバキ", "iconFilename": "tsubaki.png" },
     { "id": "tsubaki_g", "name": "ツバキ(ガイド)", "iconFilename": "tsubaki_g.png" },
