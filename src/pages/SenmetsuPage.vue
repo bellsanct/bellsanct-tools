@@ -2,7 +2,7 @@
   <div class="min-h-screen bg-gray-900 text-white flex flex-col items-center">
     <div class="w-11/12 md:w-5/6 lg:w-3/4 xl:w-2/3">
       <div class="flex items-center justify-between py-6">
-        <h1 class="text-3xl md:text-4xl font-bold">DnF 妖怪殲滅 可視化</h1>
+        <h1 class="text-3xl md:text-4xl font-bold">妖怪殲滅 可視化</h1>
         <button
           @click="showInfo = true"
           aria-label="使い方と計算の解説"
