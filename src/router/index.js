@@ -7,6 +7,7 @@ import CharCalc from "@/pages/CharCalc.vue";
 import MinifyTool from "@/pages/MinifyTool.vue";
 import JsonYaml from "@/pages/JsonYaml.vue";
 import BAGiftQuiz from "@/pages/BAGiftQuiz.vue";
+import SenmetsuPage from "@/pages/SenmetsuPage.vue";
 
 const routes = [
   {
@@ -33,6 +34,12 @@ const routes = [
     path: "/BAGiftQuiz",
     name: "BAGiftQuiz",
     component: BAGiftQuiz,
+  },
+  {
+    path: "/Senmetsu",
+    name: "Senmetsu",
+    component: SenmetsuPage,
+    alias: ["/senmetsu"],
   },
 ];
 
