@@ -67,11 +67,11 @@
             <div class="font-semibold">{{ fmt(A) }}</div>
           </div>
           <div>
-            <div class="opacity-70 text-sm">獲得量</div>
+            <div class="opacity-70 text-sm">1周当たりの獲得量</div>
             <div class="font-semibold">{{ fmt(gain) }}</div>
           </div>
           <div>
-            <div class="opacity-70 text-sm">粗利</div>
+            <div class="opacity-70 text-sm">1周当たりの粗利</div>
             <div
               :class="
                 profit >= 0
