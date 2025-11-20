@@ -7,7 +7,6 @@ import CharCalc from "@/pages/CharCalc.vue";
 import MinifyTool from "@/pages/MinifyTool.vue";
 import JsonYaml from "@/pages/JsonYaml.vue";
 import BAGiftQuiz from "@/pages/BAGiftQuiz.vue";
-<<<<<<< HEAD
 import SenmetsuPage from "@/pages/SenmetsuPage.vue";
 import JSONVisualization from "@/pages/JSONVisualization.vue";
 
